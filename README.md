@@ -1,6 +1,6 @@
-Welcome to my GitHub Repository!
+## Welcome to my GitHub Repository!
 
-## Hi, I'm Miracle Uma👋
+## Hi, I'm Miracle Uma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" alt="👋" />
 
 I'm a **Machine Learning Engineer** and **Data Scientist** with a background in **Chemical and Petroleum Engineering**. I specialize in building **physics-constrained machine learning models** and **deep learning frameworks** to solve complex problems in the energy industry and beyond.
 
