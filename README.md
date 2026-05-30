@@ -1,8 +1,8 @@
 Welcome to my GitHub Repository!
 
-Hi, I'm Miracle Uma👋
+## Hi, I'm Miracle Uma👋
 
-I'm a Machine Learning Engineer and Petroleum & Gas Engineer with a background in Reservoir Modeling, Drilling Technology, Production Optimization and Data Science. I specialize in building physics-constrained machine learning models and deep learning frameworks to solve complex problems in the energy industry and beyond.
+I'm a **Machine Learning Engineer** and **Data Scientist** with a background in **Chemical and Petroleum Engineering**. I specialize in building **physics-constrained machine learning models** and **deep learning frameworks** to solve complex problems in the energy industry and beyond.
 
 ## Interests
 
@@ -38,6 +38,13 @@ I'm a Machine Learning Engineer and Petroleum & Gas Engineer with a background i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" title="AWS" />
 </p>
 
+## 🌐 Check me out on
+<p align="left">
+  <a href="https://umah-miracle.netlify.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" title="Visit my site on Netlify" />
+  </a>
+</p>
+
 ## 💬 Contact me
 
 <p align="left">
@@ -45,7 +52,7 @@ I'm a Machine Learning Engineer and Petroleum & Gas Engineer with a background i
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail" title="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/miracle-uma-a8903a253">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>
 </p>
